@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Database1",
+    "supabase_url": "https://supabase.com/dashboard/project/nwsbkujlupugktzfrwdb",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  }
+]
